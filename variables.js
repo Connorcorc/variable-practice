@@ -5,3 +5,6 @@ var favoriteAnimal = "cat"
 var bigNumber = 100023498879234
 var smallNumber = 1
 var mikeJones = 18003308004
+
+var isTrue = true
+var isFalse = false
